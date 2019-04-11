@@ -1,3 +1,3 @@
-interface IProps {
+export interface IProps {
   a: string
 }
